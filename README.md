@@ -1,5 +1,6 @@
 [![Build status](https://github.com/jfrog/jfrog-idea-plugin/actions/workflows/test.yml/badge.svg)](https://github.com/jfrog/jfrog-idea-plugin/actions/workflows/test.yml)
 [![Marketplace](https://img.shields.io/jetbrains/plugin/v/9834-jfrog)](https://plugins.jetbrains.com/plugin/9834-jfrog)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fliuyan707124617%2Fjfrog-idea-plugin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fliuyan707124617%2Fjfrog-idea-plugin?ref=badge_shield)
 # JFrog Idea Plugin 
 
 JFrog IntelliJ IDEA plugin adds JFrog Xray scanning of Maven, Gradle, Go, Npm, and PyPI project dependencies to your IntelliJ IDEA.
@@ -32,3 +33,7 @@ We welcome community contribution through pull requests.
 
 # Release Notes
 The release are available on [Marketplace](https://plugins.jetbrains.com/plugin/9834-jfrog/versions).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fliuyan707124617%2Fjfrog-idea-plugin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fliuyan707124617%2Fjfrog-idea-plugin?ref=badge_large)
